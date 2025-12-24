@@ -1,0 +1,65 @@
+{
+	"header": {
+		"name": "Tommaso Prinetti",
+		"title": "product/digital designer & researcher.",
+		"description": "Designer focused on innovation and emerging technologies, working in interdisciplinary teams to bring a human-centered and use-oriented perspective to complex projects. I design both products and the infrastructure around them. My effort is oriented towards enabling people to actually do, explore and act through carefully designed tools.",
+		"email": "tommi.prinetti@gmail.com"
+	},
+	"mainExperiences": [
+		{
+			"title": "médialab Sciences Po (2024-2026)",
+			"description": "Design of the research infrastructure to enable participatory research projects and their communication through a mixture of design tools.",
+			"icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAOVBMVEVHcEzmEyzmEyzmEy3mEy3mEyzmFC3mEyzmEyzmFCzmEy3mEyznFCzmEyznEyzmFC3mFC3mEyzmFC13mQo6AAAAEnRSTlMALWyXqmPK2UvnsTcdDVW+9oI9f4/RAAABB0lEQVR4AY2SCYoFIQxEy0SNa9vW/Q879OhfGZopVnnkgUnhn3Gi3qu4P1CIpiGloBbD91Quz4lasvsYyxVvqTm8MWv4SLPwcm72Rp/my+n6ixzHZd7SAmCcvi7eJumAssTR9YBBG8s0SCagRgBwhsRQeGBnkuIczAEQBcyEs8Xoi1kLZDIPFQAaLqi0yt/UyOmdIigAny7oybFgIYf2juQ3nPOkbhgnOSsuuLR90trMdp6WZ4/UhqWVXzdloPd09I4iHABU1leAcArT3jolT2B9BbHCWZGMHZveKmp8rK9ERMXONIzxWB+ySyOJ36/qpY1U8/3J7o99X5NXwepXwe6reV/q+/wA0BgLyDUlgywAAAAASUVORK5CYII="
+		},
+		{
+			"title": "Density Design Lab (2024)",
+			"description": "Research design & digital method design for EMIF-IFLA project about inner stereotypes of generative AI models (images) w/ Tactical Tech.",
+			"icon": null
+		},
+		{
+			"title": "Freelance designer (2020-2024)",
+			"description": "Brand identity strategy (design-side), video direction and execution, web-design & development, anything creative I managed to get my hands on.",
+			"icon": null
+		}
+	],
+	"foregroundProjects": [
+		{
+			"title": "Ecologies of LLM Practices",
+			"description": "Design of the research infrastructure to enable participatory research projects and their communication through a mixture of design tools."
+		},
+		{
+			"title": "FutureObs",
+			"description": "Design of the research infrastructure to enable participatory research projects and their communication through a mixture of design tools."
+		},
+		{
+			"title": "Bottleneck",
+			"description": "AI powered notification filtering service concept, from service concept and strategic innovation research."
+		}
+	],
+	"archives": {
+		"title": "The archives: other projects",
+		"description": "All the not-featured projects are stored here: between passion projects, and other work ones."
+	},
+	"highlights": [
+		{
+			"title": "Hype Studies conf. exhibition: Tedium",
+			"description": "Design of the \"Tedium\" installation at the 2025 Hype Studies conference in Barcelona."
+		},
+		{
+			"title": "Global Data Barometer honorable mention",
+			"description": "Received for a data visualization website showcasing the 2025 dataset for Global Data Barometer ONG."
+		},
+		{
+			"title": "OSINT for Ukraine: Matrix handbook",
+			"description": "Conceptualization of a matrix to evaluate OSINT accounts on X and realization of a handbook to implement it."
+		}
+	],
+	"footer": {
+		"links": [
+			{ "label": "CV", "url": "#" },
+			{ "label": "GitHub", "url": "#" },
+			{ "label": "Are.na", "url": "#" },
+			{ "label": "Contact me", "url": "mailto:tommi.prinetti@gmail.com" }
+		]
+	}
+}
