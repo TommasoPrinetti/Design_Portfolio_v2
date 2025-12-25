@@ -5,6 +5,12 @@
 		-webkit-font-smoothing: antialiased;
 		-moz-osx-font-smoothing: grayscale;
 		text-rendering: optimizeLegibility;
+		user-select: text;
+	}
+
+	::selection {
+		color: white;
+		background: rgb(198, 198, 198);
 	}
 
 	html {
